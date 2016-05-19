@@ -24,3 +24,4 @@ gradlew*
 # other
 eclipse
 run
+/ThutCore/.nb-gradle/
